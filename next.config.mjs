@@ -1,4 +1,4 @@
-/** @type {import('next').NextConfig} */
+*/An AirSPACE Product */
 const nextConfig = {
   eslint: {
     ignoreDuringBuilds: true,
